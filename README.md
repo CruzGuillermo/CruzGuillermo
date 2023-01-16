@@ -2,6 +2,8 @@
 <h3 align="center">Full Stack Developer Jr.</h3>
 
 <h4 align="center">Graduado en el Bootcamp SoyHenry Con mas de 700 hs Teorico y Practico </h4>
+<hr/>
+<h4 align="center">Graduado en el Bootcamp SoyHenry Con mas de 700 hs Teorico y Practico </h4>
 
 - 🌱 Actualmente estoy aprendiendo **Typescript**
 
