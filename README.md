@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Guillermo Cruz</h1>
 <h3 align="center">Full Stack Developer Jr.</h3>
 
+<h4 align="center">Graduado en el Bootcamp SoyHenry Con mas de 700 hs Teorico y Practico </h4>
+
 - 🌱 Actualmente estoy aprendiendo **Typescript**
 
 - 💬 Sobre mi **Además de tener el súper-poder de sentarme las 24hs frente a la computadora sólo para crear cualquier cosa útil, soy una persona con gran capacidad de comunicación, trabajo en equipo y resolución de problemas. También me encanta seguir aprendiendo cada día!.**
