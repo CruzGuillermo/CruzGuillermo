@@ -2,9 +2,9 @@
 <h2 align="center">Full Stack Developer Jr.</h2>
 
 <h3 align="center">Graduado en el Bootcamp SoyHenry Con mas de 700 hs Teorico y Practico </h3>
-<h3 align="center">Argentina Programa Primera Etapa #YoProgramo <span color="red">hola </span></h3>
+<h3 align="center">Argentina Programa Primera Etapa #YoProgramo Aprobado</h3>
+<h3 align="center">Argentina Programa 2.0 Segunda Etapa #SeProgramar Orientado a ser Full Stack Developer - Cursando altualmente</h3>
 <hr/>
-<br/>
 
 
 - 🌱 Actualmente estoy aprendiendo **Typescript**
