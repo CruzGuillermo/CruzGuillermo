@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Guillermo Cruz</h1>
 <h3 align="center">Full Stack Developer Jr.</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 Actualmente estoy aprendiendo **Typescript**
 
-- 💬about me **Además de tener el súper-poder de sentarme las 24hs frente a la computadora sólo para crear cualquier cosa útil, soy una persona con gran capacidad de comunicación, trabajo en equipo y resolución de problemas. También me encanta seguir aprendiendo cada día!.**
+- 💬 Sobre mi **Además de tener el súper-poder de sentarme las 24hs frente a la computadora sólo para crear cualquier cosa útil, soy una persona con gran capacidad de comunicación, trabajo en equipo y resolución de problemas. También me encanta seguir aprendiendo cada día!.**
 
-- 📫 How to reach me **guillermobelizcruz98@gmail.com**
+- 📫 Como contactarme **guillermobelizcruz98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
