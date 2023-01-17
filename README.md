@@ -2,7 +2,7 @@
 <h2 align="center">Full Stack Developer Jr.</h2>
 
 <p align="center">Graduado en el Bootcamp SoyHenry Con mas de 700 hs Teorico y Practico </p>
-<p align="center">Argentina Programa Primera Etapa #YoProgramo Aprobado</p>
+<p align="center">Argentina Programa Primera Etapa #YoProgramo Periodo Jun.22 - Ago.22 Aprobado </p>
 <p align="center">Argentina Programa 2.0 Segunda Etapa #SeProgramar Orientado a ser Full Stack Developer - Cursando altualmente</p>
 <hr/>
 
