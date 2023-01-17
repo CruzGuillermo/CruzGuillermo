@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Guillermo Cruz</h1>
-<h2 align="center">Full Stack Developer Jr.</h2>
+<h2 align="center">Full Stack Web Developer Jr.</h2>
 
 <p align="center">Graduado en el Bootcamp SoyHenry Con mas de 700 hs Teorico y Practico </p>
 <p align="center">Argentina Programa Primera Etapa #YoProgramo Periodo Jun.22 - Ago.22 Aprobado </p>
